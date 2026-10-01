@@ -1,0 +1,2 @@
+# Optional: spoken alerts. Without it the assistant prints alerts to the console.
+pyttsx3>=2.90
